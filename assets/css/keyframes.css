@@ -1,0 +1,8 @@
+@keyframes line-extened {
+    from {
+        width: 1%;
+    }
+    to {
+        width: 100%;
+    }
+}
